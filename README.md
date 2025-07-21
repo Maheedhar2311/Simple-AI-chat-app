@@ -1,4 +1,4 @@
-# Simple AI chat app
+# Simple Chat UI for local LLM
 This project is a clean,light-weight, and self-contained front-end chat interface built with plain HTML,CSS and JavaScript.
 It is designed to connect to a locally running instance of Ollama and interact with the large language model llama3.
 
