@@ -18,3 +18,10 @@ To setup the local AI model (Ollama)
 4. Run the Ollama Server: Ensure the Ollama application is running in the background.
    It will automatically handle requests on http://localhost:11434, which is the endpoint this application uses.
 
+📁 Project Structure
+project/
+├── index.html             # Main HTML file
+├── styles.css             # Base styles
+├── script.js              # JavaScript for user-interactivity
+├── images                 # All images used
+└── README.md              # Documentation file
