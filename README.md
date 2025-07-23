@@ -17,6 +17,7 @@ To setup the local AI model (Ollama)
 3. Open your terminal or command prompt and run: ollama pull llama3
 4. Run the Ollama Server: Ensure the Ollama application is running in the background.
    It will automatically handle requests on http://localhost:11434, which is the endpoint this application uses.
+   To work with the built API, we have to run a command in cmd : ollama run llama3
 
 📁 Project Structure
 project/
